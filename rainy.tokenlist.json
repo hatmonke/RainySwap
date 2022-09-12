@@ -1,8 +1,8 @@
 {
-  "name": "Compound",
+  "name": "RainyTest",
   "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "compound",
+    "RainyTest",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
@@ -10,7 +10,7 @@
     {
       "chainId": 20222,
       "address": "0x28e8E40abD4C51817a2Fae589257fA48F115Bc36",
-      "name": "0x Protocol Token",
+      "name": "wCLD",
       "symbol": "ZRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
