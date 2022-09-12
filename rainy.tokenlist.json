@@ -13,7 +13,7 @@
       "name": "Wrapped CLD",
       "symbol": "CLD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://exploretest.cloudtx.finance/images/CLDLOGO-e9ea673e5fbca53b25d704cc9474c971.png?vsn=d"
     },
     {
       "chainId": 20222,
@@ -21,7 +21,7 @@
       "name": "TestRain",
       "symbol": "RAIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://exploretest.cloudtx.finance/images/CLDLOGO-e9ea673e5fbca53b25d704cc9474c971.png?vsn=d"
     },
      {
       "chainId": 20222,
@@ -29,7 +29,7 @@
       "name": "TestBUSD",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
     },
     {
       "chainId": 20222,
@@ -37,7 +37,7 @@
       "name": "TestUSDC",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     }
   ],
   "version": {
