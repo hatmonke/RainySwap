@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 20222,
+      "address": "0x28e8E40abD4C51817a2Fae589257fA48F115Bc36",
+      "name": "Wrapped CLD",
+      "symbol": "CLD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 20222,
       "address": "0x8035863cDC1F1E481EaFdFC373C55014A9f8364B",
       "name": "TestRain",
       "symbol": "RAIN",
