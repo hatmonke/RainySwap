@@ -22,6 +22,14 @@
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 20222,
+      "address": "0x9D9ec31DeA74D14Ea3A32A543Fc4f97Ad449c323",
+      "name": "TestUSDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     }
   ],
   "version": {
