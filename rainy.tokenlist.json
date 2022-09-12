@@ -11,7 +11,7 @@
       "chainId": 20222,
       "address": "0x28e8E40abD4C51817a2Fae589257fA48F115Bc36",
       "name": "Wrapped CLD",
-      "symbol": "CLD",
+      "symbol": "WCLD",
       "decimals": 18,
       "logoURI": "https://exploretest.cloudtx.finance/images/CLDLOGO-e9ea673e5fbca53b25d704cc9474c971.png?vsn=d"
     },
