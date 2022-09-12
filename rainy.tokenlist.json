@@ -9,9 +9,17 @@
   "tokens": [
     {
       "chainId": 20222,
-      "address": "0x28e8E40abD4C51817a2Fae589257fA48F115Bc36",
-      "name": "wCLD",
-      "symbol": "ZRX",
+      "address": "0x8035863cDC1F1E481EaFdFC373C55014A9f8364B",
+      "name": "TestRain",
+      "symbol": "RAIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+     {
+      "chainId": 20222,
+      "address": "0xE468096651de6A230BDa9fb00ea3b9e0aA8EF254",
+      "name": "TestBUSD",
+      "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     }
