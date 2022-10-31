@@ -1,6 +1,6 @@
 {
   "name": "CloudSwap Testnet",
-  "logoURI": "https://exploretest.cloudtx.finance/images/CLDLOGO-e9ea673e5fbca53b25d704cc9474c971.png?vsn=d",
+  "logoURI": "https://raw.githubusercontent.com/hatmonke/RainySwap/main/logo.png",
   "keywords": [
     "CloudSwap",
     "Testnet"
@@ -8,16 +8,16 @@
   "timestamp": "2022-09-12T14:52:04+00:00",
   "tokens": [
     {
-      "chainId": 20222,
-      "address": "0x1B82f31689bd878575774268cf17491aD75a9eD7",
+      "chainId": 31224,
+      "address": "0x0452237142219E8E1B8472506200d84c6ae93EbA",
       "name": "Wrapped CLD",
       "symbol": "WCLD",
       "decimals": 18,
-      "logoURI": "https://exploretest.cloudtx.finance/images/CLDLOGO-e9ea673e5fbca53b25d704cc9474c971.png?vsn=d"
+      "logoURI": "https://raw.githubusercontent.com/hatmonke/RainySwap/main/logo.png"
     },
     {
-      "chainId": 20222,
-      "address": "0x80E34c9873fE0b9bCa07832C769aa3CacC6BBdCf",
+      "chainId": 31224,
+      "address": "0x038B68F8827444f36863bA76ea424bC781980826",
       "name": "TestUSDC",
       "symbol": "USDC",
       "decimals": 18,
@@ -25,7 +25,7 @@
     }
   ],
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 0,
     "patch": 0
   }
